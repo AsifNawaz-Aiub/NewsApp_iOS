@@ -19,6 +19,9 @@ This is an app to show daily news from different sources. Api used in this app i
 - Automatic news image slider animation
 - Header shrinking animation while scrolling up/down
 
+## Video Demonstration
+
+ - Full App: https://youtu.be/tKKvirrj2Bk
 
 ## Screenshots
 
